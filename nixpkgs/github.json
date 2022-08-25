@@ -1,8 +1,8 @@
 {
   "owner": "obsidiansystems",
   "repo": "nixpkgs",
-  "branch": "aa/reflex-platform-21.05-ios",
+  "branch": "ll/reflex-platform-21.05-ios-bump-ios-deploy",
   "private": false,
-  "rev": "be557d56663cc255c58e2cdc2f9ef54343ed2550",
-  "sha256": "05z3r5l5ngd1ii731vak7826aal3ns257y41bd2nkxivynq6gbyd"
+  "rev": "963f0eab31d48939563ab4822052a6c2d4468368",
+  "sha256": "1kk1d7hbjf6114ni7w99il87a82fw9zdisq1yabvalfvc6k3fgzm"
 }
